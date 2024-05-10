@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving cloud-based solutions and fullstack development<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Advance Node.js<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ Fun fact:<br> would love to work with same minded people like me as a team.
+🔭 I’m currently working on:<br>Improving socket.io solutions and fullstack development<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Advance Node.js<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.<br><br>⚡ Fun fact:<br> would love to work with same minded people like me as a team.
 
 
 ## 🌐 Socials:
